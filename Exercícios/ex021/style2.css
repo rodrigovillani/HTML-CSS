@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+h1 {
+    background-color: lightblue;
+    height: 300px;
+    width: 300px;
+    border: 10px solid yellow;
+    padding: 10px;
+    margin: auto;
+    outline: 5px solid salmon;
+}
+
+ a {
+    border: 3px groove blue;
+ }

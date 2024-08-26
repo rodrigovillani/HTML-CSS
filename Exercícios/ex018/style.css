@@ -1,0 +1,19 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Neonderthaw&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    font-family: "Work Sans", Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+
+h1 {
+    font-family: "Neonderthaw", Arial, Helvetica, sans-serif;
+    font-size: 4em;
+    color: darkorchid;
+}
+
+h2 {
+    font-family: "Kaushan Script", Arial, Helvetica, sans-serif ;
+}

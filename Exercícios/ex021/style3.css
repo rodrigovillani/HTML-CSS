@@ -1,0 +1,82 @@
+@charset "UTF-8";
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: goldenrod;
+}
+
+header {
+    background-color: whitesmoke;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px 0px 0px 0px;
+}
+
+h1 {
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.068);
+}
+
+h2 {
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.068);
+    text-align: center;
+}
+
+nav {
+    background-color: darkorange;
+    padding: 3px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.438);
+    border-radius: 4px;
+}
+
+nav > a {
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: bold;
+    margin-right: 40px;
+}
+
+nav > a:hover {
+    text-decoration: underline;
+    background-color: orangered;
+    color: darkmagenta;
+}
+
+nav > a:active {
+    color: red;
+}
+
+main {
+    background-color: whitesmoke;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px 0px 0px 0px;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.253);
+}
+
+article {
+    background-color: wheat;
+}
+
+article > aside {
+    background-color: rgb(241, 235, 151);
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.87);
+    color: whitesmoke;
+    text-align: center;
+    padding: 3px;
+    margin: 10px;
+    border-radius: 300px;
+}
+
+footer > p {
+    margin: 0px;
+}
+
+.bola {
+    background-color: whitesmoke;
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+}

@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2 {
+    font-size: 40px;
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body {
+    background-image: linear-gradient(-45deg, #9546C9 0%, 2.450980432331562%, #9546C9 4.901%, 8.0882353708148%, #9745B5 11.274509876966476%, 14.460784569382668%, #AD0F79 17.64705926179886%, 22.794117778539658%, #9A0950 27.941176295280457%, 35.04901975393295%, #A1032A 42.15686321258545%, 45.34313678741455%, #B1031A 48.52941036224365%, 51.225489377975464%, #8B041A 53.921568393707275%, 58.088234066963196%, #4E082B 62.254899740219116%, 65.93137085437775%, #241135 69.60784196853638%, 73.28431308269501%, #271342 76.96078419685364%, 79.9019604921341%, #2B2D5D 82.84313678741455%, 84.3137264251709%, #2C2D6C 85.78431606292725%, 90.44117629528046%, #2C297D 95.09803652763367%, 97.54901826381683%, #2C1076 100%);    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+button {
+    background-color: #8B041A;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: solid;
+    display: inline-block;
+    border-radius: 12px;
+    transition-duration: .4s;
+}
+
+button:hover {
+    background-color: #271342   ;
+    color: wheat;
+}
